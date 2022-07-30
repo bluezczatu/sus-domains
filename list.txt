@@ -8,3 +8,5 @@ ingest.sentry.io
 edgedl.me.gvt1.com
 ecn.dev.virtualearth.net
 dev.virtualearth.net
+static.classistatic.de
+www.mobile.de
