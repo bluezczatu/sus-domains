@@ -10,7 +10,6 @@ ecn.dev.virtualearth.net
 dev.virtualearth.net
 static.classistatic.de
 www.mobile.de
-
 hostfiles.frogeye.fr
 spo-ring.msedge.net
 osint.digitalside.it
