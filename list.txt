@@ -27,3 +27,4 @@ s1.symcb.com
 crl.comodoca.com
 crl.usertrust.com
 e28622.a.akamaiedge.net
+hckrteam.com
